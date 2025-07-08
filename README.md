@@ -1,9 +1,9 @@
 # Hi there, I'm Andreas Dharmawan 👋
 ## About me:
-- 🔭 I’m looking for the job as Frontend dev
-- 🌱 I’m currently learning React JS and NextJS
-- 💬 Ask me about anything
-- 📫 How to reach me: andreas.kokoh05@gmail.com
+I am a graduate of a vocational high school majoring in Computer and Network Engineering. I am currently attending a bootcamp at RevoU, where I have developed a strong interest in the field of front-end development. I have been learning the JavaScript programming language along with several frameworks, including React JS and Next.js, and I continue to deepen my knowledge in these technologies.
+
+At present, I am a job seeker who is passionate about working as a front-end developer. I aim to contribute to the advancement of modern web development technologies and pursue my dream of becoming a professional, wise, and impactful software engineer who can bring value to others.
+
 
 ## Education:
 
@@ -28,7 +28,10 @@
 
 ## Project Experience
 ### 1. RevoU Bootcamp :
-  - 
+  - I once created a simple e-commerce website using the React JS framework : [Website](https://github.com/revou-fsse-oct24/milestone-2-iteration-DREWW30)
+  - I have joined and contributed to a group project in developing a ready-to-use e-commerce website : [PasarAI](https://github.com/ClementHansel/pasarAI)
+
+
 
 ### Languages and Tools:
 [<img align="left" alt="react" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" style="padding-right:10px;" />][webdev]
@@ -42,12 +45,9 @@
 
 ---
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andreasdharmawan30/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andreasdharmawan30/#gh-dark-mode-only)
+ [Linkedin](https://www.linkedin.com/in/andreasdharmawan30/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dreww__30/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dreww__30/#gh-dark-mode-only)
-
+[Instagram](https://www.instagram.com/dreww__30/)
 
 
 [webdev]: https://github.com/DREWW30/DREWW30
