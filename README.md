@@ -28,8 +28,9 @@ At present, I am a job seeker who is passionate about working as a front-end dev
 
 ## Project Experience
 ### 1. RevoU Bootcamp :
-  - I once created a simple e-commerce website using the React JS framework : [Website](https://github.com/revou-fsse-oct24/milestone-2-iteration-DREWW30)
-  - I have joined and contributed to a group project in developing a ready-to-use e-commerce website : [PasarAI](https://github.com/ClementHansel/pasarAI)
+  - I once created a simple e-commerce website using the React JS framework. That project had its own challenges for me because it was my very first project. The website includes features such as login, register, and cart, but the most difficult part at the time was displaying products using an API. Fortunately, I had a great mentor in the field who provided valuable support, which helped me overcome several obstacles. Currently, the website is still under further development. : [Website](https://github.com/revou-fsse-oct24/milestone-2-iteration-DREWW30)
+    
+  - I have joined and contributed to a group project in developing a ready-to-use e-commerce website. In that project, I also gained experience collaborating within a project group, which presented its own challenges for me. I contributed by developing the 2FA (Two-Factor Authentication) feature — something I had never worked on before. However, thanks to the strong teamwork and the support and encouragement from the team, I was able to overcome the challenges and complete the task successfully. : [PasarAI](https://github.com/ClementHansel/pasarAI)
 
 
 
